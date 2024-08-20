@@ -1,6 +1,17 @@
-# Qt-Based FFmpeg wrapper for easy video editing. Currently in progress.
+# Qt-Based FFmpeg GUI for easy video editing
+
+features I want to implement:
+- easy video trimming
+- easy video cropping and rescaling
+- seamless video conversion
+
+Currently in progress.
 
 To run:
-''' mkdir build && cd build && cmake .. && cmake --build . '''
+```sh
+mkdir build && cd build
+cmake ..
+cmake --build .
+```
 
 Make sure you have qt and ffmpeg installed respectively
