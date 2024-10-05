@@ -3,7 +3,7 @@
 features I want to implement:
 - easy video trimming
 - easy video cropping and rescaling
-- seamless video conversion
+- seamless video encoding conversion
 
 Currently in progress.
 
